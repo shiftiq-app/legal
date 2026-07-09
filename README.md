@@ -1,1 +1,1 @@
-# legal
+# legal shiftiq-app
