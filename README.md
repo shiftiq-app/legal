@@ -1,1 +1,1 @@
-# legal shiftiq-app
+# legal schedlix-app
